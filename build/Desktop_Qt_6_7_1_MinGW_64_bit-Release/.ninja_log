@@ -1,0 +1,15 @@
+# ninja log v5
+1	1473	7641171119105947	Lab11_autogen/timestamp	389bb0cb98ad856a
+1	1473	7641171119105947	Lab11_autogen/mocs_compilation.cpp	389bb0cb98ad856a
+1	1473	7641171119105947	C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/Lab11_autogen/timestamp	389bb0cb98ad856a
+1	1473	7641171119105947	C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/Lab11_autogen/mocs_compilation.cpp	389bb0cb98ad856a
+1516	5197	7641171156048827	CMakeFiles/Lab11.dir/song.cpp.obj	7d9bbdd5adf8e55d
+1574	5872	7641171163247201	CMakeFiles/Lab11.dir/songcontroller.cpp.obj	c837e4a0c9a4f00f
+1475	6628	7641171171764705	CMakeFiles/Lab11.dir/Lab11_autogen/mocs_compilation.cpp.obj	5677bc76bfcf1c94
+1501	6631	7641171171807230	CMakeFiles/Lab11.dir/main.cpp.obj	37e9f6fc46f0331
+1485	6713	7641171172630341	CMakeFiles/Lab11.dir/mainwindow.cpp.obj	799702637a80b749
+6713	7077	7641171175989411	Lab11.exe	af5784e4bf172412
+1	69	0	CMakeFiles/clean.additional	321391b2684b2653
+70	107	0	clean	577b940aee94fbd7
+1	49	0	CMakeFiles/clean.additional	321391b2684b2653
+50	78	0	clean	577b940aee94fbd7

@@ -1,0 +1,9 @@
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/Lab11.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/Lab11_autogen_timestamp_deps.dir
+C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/Lab11_autogen.dir

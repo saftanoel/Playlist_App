@@ -1,0 +1,15 @@
+# ninja log v5
+5	1349	7387686451650326	Lab11_autogen/timestamp	b4aa61e8c2eaa385
+5	1349	7387686451650326	Lab11_autogen/mocs_compilation.cpp	b4aa61e8c2eaa385
+5	1349	7387686451650326	C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Lab11_autogen/timestamp	b4aa61e8c2eaa385
+5	1349	7387686451650326	C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Lab11_autogen/mocs_compilation.cpp	b4aa61e8c2eaa385
+1391	7916	7387686515910627	CMakeFiles/Lab11.dir/song.cpp.obj	f6db4118e0820a0d
+36	1393	7387687295826180	Lab11_autogen/timestamp	b4aa61e8c2eaa385
+36	1393	7387687295826180	Lab11_autogen/mocs_compilation.cpp	b4aa61e8c2eaa385
+36	1393	7387687295826180	C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Lab11_autogen/timestamp	b4aa61e8c2eaa385
+36	1393	7387687295826180	C:/Users/Lenovo/Documents/lab11final/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Lab11_autogen/mocs_compilation.cpp	b4aa61e8c2eaa385
+1416	8517	7387687368200947	CMakeFiles/Lab11.dir/songcontroller.cpp.obj	946c01592f11bedf
+1405	8986	7387687372859770	CMakeFiles/Lab11.dir/main.cpp.obj	89d8c7857fb5ff3c
+1394	9164	7387687374604162	CMakeFiles/Lab11.dir/Lab11_autogen/mocs_compilation.cpp.obj	20408370e06e92b3
+1437	9181	7387687374878120	CMakeFiles/Lab11.dir/mainwindow.cpp.obj	62cd1839f32b192f
+9182	9714	7387687379570704	Lab11.exe	3ce3933195b00b41
